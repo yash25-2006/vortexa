@@ -39,6 +39,7 @@ const corsOptions = {
       allowedOrigins.includes(origin) ||
       origin.endsWith('.web.app') ||
       origin.endsWith('.firebaseapp.com') ||
+      origin.endsWith('.onrender.com') ||
       process.env.NODE_ENV !== 'production'
     ) {
       return callback(null, true);

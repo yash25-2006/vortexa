@@ -1,0 +1,28 @@
+{
+  "name": "jansetu-vortexa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "India Development Intelligence Platform (JanSetu)",
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "install:all": "npm install --prefix client && npm install --prefix server",
+    "build:client": "npm run build --prefix client",
+    "build": "npm run build --prefix client",
+    "postinstall": "npm run build --prefix client",
+    "start": "node server/server.js",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server"
+  },
+  "keywords": [
+    "jansetu",
+    "civic-tech",
+    "gemini",
+    "render"
+  ],
+  "author": "",
+  "license": "ISC"
+}
