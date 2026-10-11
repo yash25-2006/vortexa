@@ -1,0 +1,8 @@
+[
+  { "name": "Maharashtra", "code": "MH", "capital": "Mumbai / Pune", "badge": "Active Monitoring Zone" },
+  { "name": "Assam", "code": "AS", "capital": "Guwahati / Dispur", "badge": "Active Monitoring Zone" },
+  { "name": "Rajasthan", "code": "RJ", "capital": "Jaipur / Jodhpur", "badge": "Active Monitoring Zone" },
+  { "name": "Tamil Nadu", "code": "TN", "capital": "Chennai / Madurai", "badge": "Active Monitoring Zone" },
+  { "name": "Uttar Pradesh", "code": "UP", "capital": "Lucknow / Barabanki", "badge": "Active Monitoring Zone" },
+  { "name": "Karnataka", "code": "KA", "capital": "Bengaluru", "badge": "Active Monitoring Zone" }
+]

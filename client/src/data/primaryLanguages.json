@@ -1,0 +1,23 @@
+[
+  {
+    "code": "mr",
+    "native": "मराठी",
+    "sub": "Marathi",
+    "badge": "महाराष्ट्र शासन / ग्रामीण विकास",
+    "greeting": "नमस्कार, समस्या सांगा"
+  },
+  {
+    "code": "hi",
+    "native": "हिन्दी",
+    "sub": "Hindi",
+    "badge": "भारतीय जन संवाद",
+    "greeting": "नमस्ते, समस्या बताएं"
+  },
+  {
+    "code": "en",
+    "native": "English",
+    "sub": "India Development Intelligence",
+    "badge": "Civic Platform",
+    "greeting": "Welcome, share your issue"
+  }
+]

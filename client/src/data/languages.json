@@ -1,0 +1,13 @@
+[
+  { "code": "mr", "name": "मराठी", "label": "Marathi" },
+  { "code": "hi", "name": "हिन्दी", "label": "Hindi" },
+  { "code": "en", "name": "English", "label": "English" },
+  { "code": "ta", "name": "தமிழ்", "label": "Tamil" },
+  { "code": "te", "name": "తెలుగు", "label": "Telugu" },
+  { "code": "kn", "name": "ಕನ್ನಡ", "label": "Kannada" },
+  { "code": "bn", "name": "বাংলা", "label": "Bengali" },
+  { "code": "gu", "name": "ગુજરાતી", "label": "Gujarati" },
+  { "code": "pa", "name": "ਪੰਜਾਬੀ", "label": "Punjabi" },
+  { "code": "as", "name": "অসমীয়া", "label": "Assamese" },
+  { "code": "ur", "name": "اردو", "label": "Urdu" }
+]

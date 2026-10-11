@@ -1,0 +1,100 @@
+{
+  "stateAccounts": [
+    {
+      "role": "State Monitor",
+      "state": "Maharashtra",
+      "email": "demo.maharashtra@demo.gov",
+      "name": "Dr. Suresh Patil",
+      "badge": "Western Region"
+    },
+    {
+      "role": "State Monitor",
+      "state": "Assam",
+      "email": "demo.assam@demo.gov",
+      "name": "Anupama Baruah",
+      "badge": "North-East Region"
+    },
+    {
+      "role": "State Monitor",
+      "state": "Rajasthan",
+      "email": "demo.rajasthan@demo.gov",
+      "name": "Vikram Singh",
+      "badge": "Northern Region"
+    },
+    {
+      "role": "State Monitor",
+      "state": "Tamil Nadu",
+      "email": "demo.tamilnadu@demo.gov",
+      "name": "K. Senthil Kumar",
+      "badge": "Southern Region"
+    }
+  ],
+  "wardAccounts": [
+    {
+      "ward": "Ward 10 – Bavdhan",
+      "locality": "Bavdhan-Bhusari Colony",
+      "city": "Pune, Maharashtra",
+      "email": "ward10.bavdhan@demo.gov",
+      "name": "Kiran Dagade Patil"
+    },
+    {
+      "ward": "Ward 12 – Panchavati",
+      "locality": "Panchavati North",
+      "city": "Nashik, Maharashtra",
+      "email": "ward12.panchavati@demo.gov",
+      "name": "Sunita Kadam"
+    },
+    {
+      "ward": "Ward 3 – Kamptee",
+      "locality": "Kamptee Shivar",
+      "city": "Nagpur, Maharashtra",
+      "email": "ward3.kamptee@demo.gov",
+      "name": "Rajendra Bhoyar"
+    },
+    {
+      "ward": "Ward 4 – Hajo",
+      "locality": "Hajo Rural",
+      "city": "Kamrup, Assam",
+      "email": "ward4.hajo@demo.gov",
+      "name": "Pranab Das"
+    },
+    {
+      "ward": "Ward 5 – Chaksu",
+      "locality": "Chaksu Rural",
+      "city": "Jaipur, Rajasthan",
+      "email": "ward5.chaksu@demo.gov",
+      "name": "Manju Meena"
+    },
+    {
+      "ward": "Ward 8 – Vadipatti",
+      "locality": "Vadipatti North",
+      "city": "Madurai, Tamil Nadu",
+      "email": "ward8.vadipatti@demo.gov",
+      "name": "M. Murugesan"
+    }
+  ],
+  "governmentTiers": {
+    "state": {
+      "id": "state",
+      "tierName": "STATE",
+      "emoji": "🏢",
+      "title": "State Govt",
+      "subtitle": "Government",
+      "email": "demo.maharashtra@demo.gov",
+      "password": "Demo@123",
+      "roleLabel": "Maharashtra State Monitor",
+      "badgeColor": "text-blue-700 bg-blue-50 border-blue-200"
+    },
+    "ward": {
+      "id": "ward",
+      "tierName": "WARD",
+      "emoji": "🏘️",
+      "title": "Ward Govt",
+      "subtitle": "Government",
+      "email": "ward10.bavdhan@demo.gov",
+      "password": "Demo@123",
+      "roleLabel": "Ward 10 – Bavdhan Officer",
+      "badgeColor": "text-emerald-700 bg-emerald-50 border-emerald-200"
+    }
+  }
+}

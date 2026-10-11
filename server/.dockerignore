@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.*
+uploads
+data/*.sqlite
+data/*.sqlite3
+data/*.sqlite-journal
+*.sqlite
+*.sqlite3
+npm-debug.log
+test-*.js

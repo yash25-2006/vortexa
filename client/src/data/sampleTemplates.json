@@ -1,0 +1,34 @@
+[
+  {
+    "label": "मराठी (आरोग्य / दवाखाना)",
+    "language": "Marathi",
+    "location": "Pune (Rural / Khed), Maharashtra",
+    "lat": 18.8475,
+    "lng": 73.9167,
+    "text": "आमच्या गावात जवळ हॉस्पिटल नाही. आजारी लोकांना उपचारासाठी 15 किलोमीटर दूर जावे लागते. गरोदर महिलांना विशेष त्रास होतो."
+  },
+  {
+    "label": "हिंदी (शिक्षा / स्कूल)",
+    "language": "Hindi",
+    "location": "Barabanki District, Uttar Pradesh",
+    "lat": 26.9274,
+    "lng": 81.1834,
+    "text": "हमारे गाँव के प्राथमिक विद्यालय में केवल दो कमरे हैं और 150 बच्चे पढ़ते हैं। बारिश में छत से पानी टपकता है और शिक्षक भी कम हैं।"
+  },
+  {
+    "label": "English (Road Infrastructure)",
+    "language": "English",
+    "location": "Kolhapur (Rural), Maharashtra",
+    "lat": 16.7050,
+    "lng": 74.2433,
+    "text": "The main connecting road between our village and the state highway is completely washed away by recent floods. No ambulance or school bus can enter."
+  },
+  {
+    "label": "हिंदी (पेयजल समस्या)",
+    "language": "Hindi",
+    "location": "Nashik (Tribal / Ward 14), Maharashtra",
+    "lat": 19.9975,
+    "lng": 73.7898,
+    "text": "हमारे वार्ड में पिछले 12 दिनों से पीने का नल का पानी नहीं आया है। हमें बोरवेल का खारा पानी पीना पड़ रहा है।"
+  }
+]

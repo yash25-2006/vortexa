@@ -1,0 +1,57 @@
+[
+  {
+    "aadhaarSuffix": "0123",
+    "name": "Ramesh Patil (रमेश पाटील)",
+    "mobile": "98230 14589",
+    "address": "At Post Khed, Pune Rural",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "defaultLanguage": "mr",
+    "lat": 18.8475,
+    "lng": 73.9167
+  },
+  {
+    "aadhaarSuffix": "4567",
+    "name": "Sunita Sharma (सुनीता शर्मा)",
+    "mobile": "94150 87612",
+    "address": "Gram Panchayat Haidergarh",
+    "district": "Barabanki",
+    "state": "Uttar Pradesh",
+    "defaultLanguage": "hi",
+    "lat": 26.9274,
+    "lng": 81.1834
+  },
+  {
+    "aadhaarSuffix": "8901",
+    "name": "Rajesh Kumar (राजेश कुमार)",
+    "mobile": "91220 54321",
+    "address": "Phulwari Sharif, Patna Rural",
+    "district": "Patna",
+    "state": "Bihar",
+    "defaultLanguage": "hi",
+    "lat": 25.5941,
+    "lng": 85.1376
+  },
+  {
+    "aadhaarSuffix": "3456",
+    "name": "Ananya Deshmukh (अनन्या देशमुख)",
+    "mobile": "97654 32109",
+    "address": "Ward 14, Panchavati",
+    "district": "Nashik",
+    "state": "Maharashtra",
+    "defaultLanguage": "mr",
+    "lat": 19.9975,
+    "lng": 73.7898
+  },
+  {
+    "aadhaarSuffix": "7890",
+    "name": "Demo Citizen (General)",
+    "mobile": "98000 12345",
+    "address": "Main Bazaar, Kolhapur Rural",
+    "district": "Kolhapur",
+    "state": "Maharashtra",
+    "defaultLanguage": "en",
+    "lat": 16.705,
+    "lng": 74.2433
+  }
+]

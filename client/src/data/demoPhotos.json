@@ -1,0 +1,46 @@
+{
+  "beforePhotos": [
+    {
+      "id": "pothole-before",
+      "title": "Damaged Road Pothole (Before)",
+      "url": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "water-before",
+      "title": "Water Main Leakage (Before)",
+      "url": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "garbage-before",
+      "title": "Waste & Overflow (Before)",
+      "url": "https://images.unsplash.com/photo-1605600659873-d808a13e4d2a?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "elec-before",
+      "title": "Damaged Electrical Post (Before)",
+      "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&auto=format&fit=crop&q=80"
+    }
+  ],
+  "afterPhotos": [
+    {
+      "id": "pothole-after",
+      "title": "Repaved Asphalt Road (After)",
+      "url": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "water-after",
+      "title": "Repaired Water Pipeline (After)",
+      "url": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "garbage-after",
+      "title": "Cleared Clean Public Area (After)",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "elec-after",
+      "title": "Restored Street Light LED (After)",
+      "url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&auto=format&fit=crop&q=80"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "code": "en",
+    "name": "English",
+    "nativeName": "English",
+    "status": "active",
+    "script": "Latin",
+    "region": "Pan-India",
+    "greeting": "Welcome, share your civic issue"
+  },
+  {
+    "code": "hi",
+    "name": "Hindi",
+    "nativeName": "हिन्दी",
+    "status": "active",
+    "script": "Devanagari",
+    "region": "North & Central India",
+    "greeting": "नमस्ते, अपनी समस्या बताएं"
+  },
+  {
+    "code": "mr",
+    "name": "Marathi",
+    "nativeName": "मराठी",
+    "status": "active",
+    "script": "Devanagari",
+    "region": "Maharashtra",
+    "greeting": "नमस्कार, आपली समस्या नोंदवा"
+  },
+  {
+    "code": "bn",
+    "name": "Bengali",
+    "nativeName": "বাংলা",
+    "status": "pending_cloud",
+    "script": "Bengali",
+    "region": "West Bengal, Tripura, Assam",
+    "greeting": "নমস্কার, আপনার সমস্যা জানান"
+  },
+  {
+    "code": "gu",
+    "name": "Gujarati",
+    "nativeName": "ગુજરાતી",
+    "status": "pending_cloud",
+    "script": "Gujarati",
+    "region": "Gujarat",
+    "greeting": "નમસ્તે, તમારી સમસ્યા જણાવો"
+  },
+  {
+    "code": "ta",
+    "name": "Tamil",
+    "nativeName": "தமிழ்",
+    "status": "pending_cloud",
+    "script": "Tamil",
+    "region": "Tamil Nadu, Puducherry",
+    "greeting": "வணக்கம், உங்கள் பிரச்சனையை பகிரவும்"
+  },
+  {
+    "code": "te",
+    "name": "Telugu",
+    "nativeName": "తెలుగు",
+    "status": "pending_cloud",
+    "script": "Telugu",
+    "region": "Andhra Pradesh, Telangana",
+    "greeting": "నమస్కారం, మీ సమస్యను తెలపండి"
+  },
+  {
+    "code": "kn",
+    "name": "Kannada",
+    "nativeName": "ಕನ್ನಡ",
+    "status": "pending_cloud",
+    "script": "Kannada",
+    "region": "Karnataka",
+    "greeting": "ನಮಸ್ಕಾರ, ನಿಮ್ಮ ಸಮಸ್ಯೆಯನ್ನು ತಿಳಿಸಿ"
+  },
+  {
+    "code": "ml",
+    "name": "Malayalam",
+    "nativeName": "മലയാളം",
+    "status": "pending_cloud",
+    "script": "Malayalam",
+    "region": "Kerala, Lakshadweep",
+    "greeting": "നമസ്കാരം, നിങ്ങളുടെ പരാതി പങ്കുവെക്കൂ"
+  },
+  {
+    "code": "pa",
+    "name": "Punjabi",
+    "nativeName": "ਪੰਜਾਬੀ",
+    "status": "pending_cloud",
+    "script": "Gurmukhi",
+    "region": "Punjab, Delhi, Haryana",
+    "greeting": "ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, ਆਪਣੀ ਸਮੱਸਿਆ ਦੱਸੋ"
+  },
+  {
+    "code": "or",
+    "name": "Odia",
+    "nativeName": "ଓଡ଼ିଆ",
+    "status": "pending_cloud",
+    "script": "Odia",
+    "region": "Odisha",
+    "greeting": "ନମସ୍କାର, ଆପଣଙ୍କ ସମସ୍ୟା ଜଣାନ୍ତୁ"
+  },
+  {
+    "code": "as",
+    "name": "Assamese",
+    "nativeName": "অসমীয়া",
+    "status": "pending_cloud",
+    "script": "Bengali-Assamese",
+    "region": "Assam",
+    "greeting": "নমস্কাৰ, আপোনাৰ समस्या জনাওক"
+  },
+  {
+    "code": "ur",
+    "name": "Urdu",
+    "nativeName": "اردو",
+    "status": "pending_cloud",
+    "script": "Perso-Arabic",
+    "region": "Pan-India",
+    "greeting": "آداب، اپنا مسئلہ درج کریں"
+  }
+]
